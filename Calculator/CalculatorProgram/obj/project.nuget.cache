@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uLkjzyCB/Qp18odKIjV3ghRXsa827sFOu5+57WNwxIeCaXqA64CN8o6h3kVwKkP3roNAuSIaZslLteewIJSsWA==",
+  "dgSpecHash": "2G1fE14UXkd9Q7B+cI+x69F0IA03B6AlYhzAsvNG78M1OLFrnAuIVMaOy0fmbYrpuY9Uq2gVvoYaMkuFYM+2yQ==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Iejan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
-  ],
+  "projectFilePath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

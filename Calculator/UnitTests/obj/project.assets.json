@@ -3493,11 +3493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\UnitTests.csproj",
+      "projectPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Iejan\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\obj\\",
+      "outputPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3517,8 +3517,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj": {
-              "projectPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj"
+            "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj": {
+              "projectPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj"
             }
           }
         }
@@ -3565,7 +3565,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

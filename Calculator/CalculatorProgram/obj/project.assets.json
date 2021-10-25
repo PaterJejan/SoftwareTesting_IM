@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
+      "projectUniqueName": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
       "projectName": "CalculatorProgram",
-      "projectPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
+      "projectPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
       "packagesPath": "C:\\Users\\Iejan\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\obj\\",
+      "outputPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,18 +59,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.18, 3.1.18]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wlt6pA0HQEpnGu/ftJzExo4po/iS3yFaIUTU9YV0MuTnhoRE71FRDS1yaxn8p0xFHfYE5t+WtdRQEeJomC2zhQ==",
+  "dgSpecHash": "Kf50NoWt+e9oy7r0BvHzFDC9t8dRTbA4olaQzy7TODCg1cza7enSHesZynMmRkVJRfU+/3fNBFpln4RrNtlvBA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Iejan\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Iejan\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

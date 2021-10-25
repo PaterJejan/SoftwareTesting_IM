@@ -100,3 +100,4 @@ D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debu
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.genruntimeconfig.cache
+d:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
