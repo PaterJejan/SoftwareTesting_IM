@@ -67,5 +67,13 @@ namespace CalculatorProgram
         {
             Current = 0;
         }
+
+        public Calculator(IDateTimeProvider dateTimeProvider)
+        {
+            if (dateTimeProvider.GetNow().CompareTo(new DateTime(1, 1, 2100, 0, 0, 0)) >= 0)
+            {
+            throw new InvalidOperationException("Hey, it's time to make some maintenance!");
+            }
+        }
     }
 }

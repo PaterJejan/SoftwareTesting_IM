@@ -96,7 +96,6 @@ D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\bin\Debu
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\bin\Debug\netcoreapp3.1\CalculatorProgram.dll
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\bin\Debug\netcoreapp3.1\CalculatorProgram.pdb
-D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
 D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.genruntimeconfig.cache

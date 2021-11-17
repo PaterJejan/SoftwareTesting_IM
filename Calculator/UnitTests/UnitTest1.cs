@@ -19,6 +19,14 @@ namespace UnitTests
 
                 // Then, Assert
                 Assert.IsType<decimal>(result);
+
+                int n1 = 25;
+                int n2 = 10;
+
+                double x = (double)n1 / n2;
+                Assert.Equal(2.5, x);
+                x = n1 / n2;
+                Assert.Equal(2, x);
             });
 
             Assert.Equal("Not a valid number to use", exception.Message);
