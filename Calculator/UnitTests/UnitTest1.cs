@@ -1,4 +1,5 @@
 using CalculatorProgram;
+using Moq;
 using System;
 using Xunit;
 
@@ -168,6 +169,24 @@ namespace UnitTests
             // 3) Then, Assert
             Assert.Equal(5, result);
             Assert.IsType<decimal>(result);
+        }
+
+        [Fact]
+        public void Test_MaintenanceDateHit()
+        {
+            // 1) Arrange
+            var mockDateTime = new Moq.Mock<IDateTimeProvider>();
+            mockDateTime.Setup(mock => mock.GetNow()).Returns(() => new DateTime(2100, 1, 1, 0, 0, 0));
+
+            var exception = Assert.Throws<InvalidOperationException>(() =>
+            {
+                var calculator = new Calculator(mockDateTime.Object);
+            });
+
+            // Then, Assert
+            Assert.True(exception.Message.Contains("time to make some maintenance!"));
+
+            mockDateTime.Verify(mock => mock.GetNow(), Times.Once);
         }
     }
 }

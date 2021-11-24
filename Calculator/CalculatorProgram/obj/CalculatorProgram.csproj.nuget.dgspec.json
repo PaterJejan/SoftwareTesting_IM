@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj": {}
+    "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj": {
+    "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
+        "projectUniqueName": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
         "projectName": "CalculatorProgram",
-        "projectPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
+        "projectPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\CalculatorProgram.csproj",
         "packagesPath": "C:\\Users\\Iejan\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\obj\\",
+        "outputPath": "d:\\Users\\Iejan\\Documents\\GitHub\\SoftwareTesting_IM\\Calculator\\CalculatorProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

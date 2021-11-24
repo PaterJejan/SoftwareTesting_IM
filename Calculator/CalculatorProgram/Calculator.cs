@@ -68,11 +68,15 @@ namespace CalculatorProgram
             Current = 0;
         }
 
+        public Calculator()
+        {
+        }
+
         public Calculator(IDateTimeProvider dateTimeProvider)
         {
-            if (dateTimeProvider.GetNow().CompareTo(new DateTime(1, 1, 2100, 0, 0, 0)) >= 0)
+            if (dateTimeProvider.GetNow().CompareTo(new DateTime(2100, 1, 1, 0, 0, 0)) >= 0)
             {
-            throw new InvalidOperationException("Hey, it's time to make some maintenance!");
+                throw new InvalidOperationException("Hey, it's time to make some maintenance!");
             }
         }
     }
