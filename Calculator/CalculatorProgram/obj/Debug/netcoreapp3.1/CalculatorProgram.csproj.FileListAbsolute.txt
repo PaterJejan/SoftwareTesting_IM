@@ -14,3 +14,4 @@ D:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\CalculatorProgram\
 d:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\CalculatorProgram\obj\Debug\netcoreapp3.1\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
 d:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\CalculatorProgram\bin\Debug\netcoreapp3.1\Castle.Core.dll
 d:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\CalculatorProgram\bin\Debug\netcoreapp3.1\Moq.dll
+d:\Users\Iejan\Documents\GitHub\SoftwareTesting_IM\Calculator\CalculatorProgram\obj\Debug\netcoreapp3.1\CalculatorProgram.csproj.CopyComplete
